@@ -17,7 +17,7 @@ import java.util.Scanner;
  */
 /**
  *
- * @author Santiago
+ * @author Kevin
  */
 public class Menu {
 
